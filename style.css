@@ -1,0 +1,15 @@
+.card{
+    line-height: 2em;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  li:hover{
+    background-color:#f8f9fa;
+  }
+  
+  li:active{
+    background-color: lightgray;
+  }
